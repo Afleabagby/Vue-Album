@@ -9,7 +9,7 @@ import 'sweetalert2/dist/sweetalert2.min.css'
 import ImgInputer from 'vue-img-inputer'
 import 'vue-img-inputer/dist/index.css'
 import Photoswipe from 'vue-pswipe'
-import VueAnalytics from 'vue-analytics';
+import VueAnalytics from 'vue-analytics'
 
 import App from './App.vue'
 import router from './router'
